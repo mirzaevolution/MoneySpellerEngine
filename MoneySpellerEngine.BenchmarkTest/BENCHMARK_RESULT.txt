@@ -49,13 +49,9 @@ Elapsed       : 00:00:00.0045587
 Iteration                : 1,000,000,000
 Total elapsed            : 00:16:53.8371805
 Total elapsed in ms      : 1013837 ms
-Avg in sec               : 202.767 sec
-Avg in ms                : 202767 ms
 
 ******English Run-Test******
 Iteration                : 1,000,000,000
 Total elapsed            : 00:15:57.7548077
 Total elapsed in ms      : 957754 ms
-Avg in sec               : 191.55 sec
-Avg in ms                : 191550 ms
 ---------------------------------------
