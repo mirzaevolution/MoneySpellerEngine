@@ -578,10 +578,7 @@ namespace MoneySpellerEngine.BenchmarkTest
             Console.WriteLine($"Iteration                : {maxIteration.ToString("N0")}");
             Console.WriteLine($"Total elapsed            : {stopwatch.Elapsed}");
             Console.WriteLine($"Total elapsed in ms      : {stopwatch.ElapsedMilliseconds} ms");
-            var avgInMs = stopwatch.ElapsedMilliseconds / 5;
-            var avgInSec = TimeSpan.FromMilliseconds((stopwatch.ElapsedMilliseconds / 5)).TotalSeconds;
-            Console.WriteLine($"Avg elapsed in sec       : {avgInSec} sec");
-            Console.WriteLine($"Avg elapsed in ms        : {avgInMs} ms");
+           
         }
         static void Dynamic_EN_RunTest()
         {
@@ -598,10 +595,7 @@ namespace MoneySpellerEngine.BenchmarkTest
             Console.WriteLine($"Iteration                : {maxIteration.ToString("N0")}");
             Console.WriteLine($"Total elapsed            : {stopwatch.Elapsed}");
             Console.WriteLine($"Total elapsed in ms      : {stopwatch.ElapsedMilliseconds} ms");
-            var avgInMs = stopwatch.ElapsedMilliseconds / 5;
-            var avgInSec = TimeSpan.FromMilliseconds((stopwatch.ElapsedMilliseconds / 5)).TotalSeconds;
-            Console.WriteLine($"Avg elapsed in sec       : {avgInSec} sec");
-            Console.WriteLine($"Avg elapsed in ms        : {avgInMs} ms");
+       
         }
         #endregion
 
