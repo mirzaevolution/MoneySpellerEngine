@@ -95,6 +95,11 @@ Test performed: October 9, 2017
 
 License: [MIT License](https://github.com/mirzaevolution/MoneySpellerEngine/blob/master/LICENSE)
 
+### Instal from [Nuget.org](https://www.nuget.org/packages/MoneySpellerEngine/1.1.0)
+```
+Install-Package MoneySpellerEngine -Version 1.1.0
+```
+
 Best Regards,
 
 
