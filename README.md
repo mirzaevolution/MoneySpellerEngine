@@ -50,7 +50,7 @@ total and average of all.
 
 ### Choosen Samples Test
 
-This test used choosen samples (231 data) that we created against the most difficult spelling in real life (you can inspected the data @ our BenchmarkTest Project).
+This test used choosen samples (231 data) that we created against the most difficult spelling in real life (you can inspect the data @ our BenchmarkTest Project).
 
 **Indonesian Run-Test**
 * Total samples : 231
