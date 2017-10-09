@@ -60,6 +60,7 @@
     <Content Include="CHOOSEN_SAMPLES_TEST_SCREENSHOT_EN_1.PNG" />
     <Content Include="CHOOSEN_SAMPLES_TEST_SCREENSHOT_ID_1.PNG" />
     <Content Include="CHOOSEN_SAMPLES_TEST_SCREENSHOT_ID_EN_FINAL.PNG" />
+    <Content Include="icon.png" />
     <Content Include="STATIC_TEST_SCREENSHOT.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

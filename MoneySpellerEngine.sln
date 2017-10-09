@@ -7,11 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneySpellerEngine", "Money
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneySpellerEngine.BenchmarkTest", "MoneySpellerEngine.BenchmarkTest\MoneySpellerEngine.BenchmarkTest.csproj", "{CCB15503-96BF-4419-8656-71242F8C5423}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "icons", "icons", "{2EAD0BD3-20A9-44EC-B6D3-52B1CBDA5009}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Download\Downloads\chrome\icon.png = ..\..\..\Download\Downloads\chrome\icon.png
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
