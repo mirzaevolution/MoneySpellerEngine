@@ -1,6 +1,6 @@
 # MoneySpellerEngine
 
-This lightweight library is used to spell out numbers in positive integer 64 bits into spelled out numbers from 1 to 999,999,999,999,999 (Trillion). Currently, it only supports ID (Indonesia) and EN (English) languages. 
+This lightweight library is used to spell out numbers in positive integer 64 bit into spelled out numbers from 1 to 999,999,999,999,999 (Trillion). Currently, it only supports ID (Indonesia) and EN (English) languages. 
 We hope your contribution in your own language(s) using our core interface **ISpeller**. 
 
 Here we will outline some tests that we performed: 
