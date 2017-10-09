@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MoneySpellerEngine
+﻿namespace MoneySpellerEngine
 {
     /// <summary>
     /// Core interface that provides abstraction over concrete implementations of

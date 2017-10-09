@@ -618,8 +618,8 @@ namespace MoneySpellerEngine.BenchmarkTest
             //----
 
             //----Invoke DYNAMIC TEST
-            Dynamic_ID_RunTest();
-            Dynamic_EN_RunTest();
+            //Dynamic_ID_RunTest();
+            //Dynamic_EN_RunTest();
             //----
 
             Console.ReadLine();
