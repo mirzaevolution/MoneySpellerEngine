@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneySpellerEngine", "MoneySpellerEngine\MoneySpellerEngine.csproj", "{2C46115F-BB55-4DAB-A5B9-5813E3D346B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneySpellerEngine.BenchmarkTest", "MoneySpellerEngine.BenchmarkTest\MoneySpellerEngine.BenchmarkTest.csproj", "{CCB15503-96BF-4419-8656-71242F8C5423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C46115F-BB55-4DAB-A5B9-5813E3D346B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C46115F-BB55-4DAB-A5B9-5813E3D346B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C46115F-BB55-4DAB-A5B9-5813E3D346B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C46115F-BB55-4DAB-A5B9-5813E3D346B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB15503-96BF-4419-8656-71242F8C5423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB15503-96BF-4419-8656-71242F8C5423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB15503-96BF-4419-8656-71242F8C5423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB15503-96BF-4419-8656-71242F8C5423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DD3AEA6-6EEF-4A43-A3B9-07C1BE0C0EEE}
+	EndGlobalSection
+EndGlobal
