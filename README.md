@@ -93,6 +93,7 @@ Because the limitation of our computer, we just only set the iteration until 1,0
 
 Test performed: October 9, 2017
 
+License: [MIT License](https://github.com/mirzaevolution/MoneySpellerEngine/blob/master/LICENSE)
 
 Best Regards,
 
