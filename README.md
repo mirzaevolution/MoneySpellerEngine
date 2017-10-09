@@ -50,7 +50,7 @@ total and average of all.
 
 ### Choosen Samples Test
 
-This test used choosen samples (231 data) that we created against the most difficult spelling in real life (you can inspect the data @ our BenchmarkTest Project).
+This test used choosen samples (231 data) that we created against the most difficult spellings in real life (you can inspect the data @ our BenchmarkTest Project).
 
 **Indonesian Run-Test**
 * Total samples : 231
@@ -74,7 +74,7 @@ This test used choosen samples (231 data) that we created against the most diffi
 
 
 
-### Dynamic Test Against 1 - 1,000,000,000 Iteration
+### Dynamic Test Against 1 - 1,000,000,000 Iterations
 
 This is the most difficult test that we performed. It basically generated spelled out numbers in 1 - 1,000,000,000 iterations in both languages.
 Because the limitation of our computer, we just only set the iteration until 1,000,000,000. 
